@@ -126,7 +126,7 @@
     </div>
 
     <div class="dairy">
-        <h1>DAIRY</h1>
+        <h1>DAIRY PRODUCTS</h1>
         <img src="DAIRY.jpg" alt="">
         <img src="HOME.jpg" alt="">
        
